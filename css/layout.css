@@ -42,6 +42,10 @@
   margin-right:20px;
 }
 
+[class*="col-"] {
+  margin-left: 2%;
+}
+
 .first {
   margin-left: 0%;
   clear: both;

@@ -31,5 +31,6 @@
 }
 
 .shadow {
-  left:100px;
+  position:absolute;
+  right:150px;
 }

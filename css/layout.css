@@ -27,5 +27,5 @@
 .border_right {
   column-count:3;
   column-rule-style:solid;
-
+  overflow:auto;
 }

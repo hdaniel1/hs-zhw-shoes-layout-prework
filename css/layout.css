@@ -24,4 +24,6 @@
 
 /* Posititoning Classes */
 
-
+.border_right {
+  column-count:3;
+}

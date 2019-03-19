@@ -24,13 +24,14 @@
 
 /* Posititoning Classes */
 
-.shadow {
-  column-count:3;
-  column-width:25px;
+.column_one {
+  float:left;
+  width:32%;
 }
 
-.one_column {
-  column-count:1;
+.column_two {
+  float:left;
+  width:66%;
 }
 
 #details {

@@ -24,15 +24,7 @@
 
 /* Posititoning Classes */
 
-.columns_one {
-  column-count:2;
-}
-
-.columns_two {
-  column-count:3;
-}
-
-.columns_three {
+.columns {
   column-count:3;
 }
 

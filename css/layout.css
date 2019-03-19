@@ -37,12 +37,7 @@
 .deals {
   margin-top: 20px;
 }
+
 #details {
   column-count:3;
-}
-
-.clearfix::after {
-  content: "";
-  clear: both;
-  display: table;
 }

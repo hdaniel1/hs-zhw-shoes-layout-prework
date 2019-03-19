@@ -25,10 +25,6 @@
 
 /* Posititoning Classes */
 
-.row {
-   margin-bottom: 2%;
- }
-
 [class*="col-"] {
   float: left;
   margin-left: 2%;

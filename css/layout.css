@@ -23,6 +23,11 @@
 }
 
 /* Posititoning Classes */
+
+.columns {
+  column-count:3;
+}
+
 #details {
   column-count:3;
 }

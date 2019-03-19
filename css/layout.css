@@ -24,9 +24,8 @@
 
 /* Posititoning Classes */
 
-.columns {
+.shadow {
   column-count:3;
-  column-gap:25px;
 }
 
 #details {

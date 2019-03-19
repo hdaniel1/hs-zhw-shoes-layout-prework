@@ -24,33 +24,32 @@
 
 /* Posititoning Classes */
 
-.column_one {
-  float:left;
-  width:62%;
-}
+.row {
+   clear: both;
+   margin-bottom: 2%;
+ }
 
-.column_two {
-  float:left;
-  width:30%;
-}
-
-.space {
-  margin-right:20px;
-}
-.deals {
-  margin-top: 20px;
-  margin-right:20px;
+ .row:after {
+  content: ".";
+  display: block;
+  clear: both;
+  visibility: hidden;
+  height: 0;
+  line-height: 0;
 }
 
 [class*="col-"] {
+  float: left;
   margin-left: 2%;
 }
 
-.first {
-  margin-left: 0%;
-  clear: both;
+[class*="col-"]:first-child {
+  margin-left: 0;
 }
 
-#details {
-  column-count:3;
+.col-1 {
+  width: 62%;
+}
+.col-2 {
+  width: 30%;
 }

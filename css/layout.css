@@ -28,6 +28,10 @@
   column-count:3;
 }
 
+.one_column {
+  column-count:1;
+}
+
 #details {
   column-count:3;
 }

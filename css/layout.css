@@ -35,3 +35,10 @@
 .column_three{
   float: left;
 }
+
+#archive{
+  margin-bottom: 10px;
+  margin-left: 18px;
+  margin-top: 0;
+  width: 32%;
+}

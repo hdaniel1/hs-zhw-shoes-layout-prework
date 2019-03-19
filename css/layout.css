@@ -30,7 +30,7 @@
   margin-left: 2%;
 }
 
-#ladybugs {
+[class*="col-"]:first-child {
   margin-left: 0;
 }
 

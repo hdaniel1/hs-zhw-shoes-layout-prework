@@ -29,3 +29,7 @@
   column-rule-style:solid;
 
 }
+
+.shadow{
+  column-count:3;
+}

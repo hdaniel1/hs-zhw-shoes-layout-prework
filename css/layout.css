@@ -36,6 +36,10 @@
   float: left;
 }
 
+.row-2{
+  height:550px;
+}
+
 #archive{
   margin-bottom: 10px;
   margin-left: 18px;

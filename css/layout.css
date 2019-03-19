@@ -41,6 +41,7 @@
 
 #ladybugs {
   margin-left:0%;
+  clear:both;
 }
 #details {
   column-count:3;

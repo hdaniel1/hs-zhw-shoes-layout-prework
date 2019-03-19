@@ -26,6 +26,7 @@
 
 .shadow {
   column-count:3;
+  column-width:25px;
 }
 
 .one_column {

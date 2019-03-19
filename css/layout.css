@@ -43,4 +43,5 @@
 
 .details {
   column-count:3;
+  column-rule-color:grey;
 }
